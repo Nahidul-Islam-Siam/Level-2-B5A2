@@ -1,4 +1,5 @@
-# ✨ Bonus Section Answers (in Bangla Style with Examples)
+
+# Assignment Questions and Answers
 
 ## 1. What is PostgreSQL?
 
